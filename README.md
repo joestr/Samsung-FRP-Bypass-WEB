@@ -13,7 +13,7 @@ Other than that, everything happens in the browser and locally on your computer,
 - Make sure you are using a chromium based browser (Chrome, Edge, Brave, Opera...)
 - Make sure drivers are installed
 - On your phone click "Emergency Dialer"
-- Type *#0*# to enter "Test mode"
+- Type \*#0\*# to enter "Test mode"
 - When you are there, connect your device to your computer with a USB cable
 - Either open the [demonstration site](https://serial.rf.gd/frp/) or run the code in this repository locally
 - In the tool select "Connect" in the WebSerial section
